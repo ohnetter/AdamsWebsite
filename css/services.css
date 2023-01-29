@@ -1,3 +1,10 @@
+h2 {
+  background-color: #fbca2c;
+}
+h5 {
+  color: #212529;
+}
+
 .contact-info {
   text-align: center;
 }
@@ -10,7 +17,7 @@ li {
   font-size: x-large;
 }
 li :hover {
- 
+text-decoration: underline;
 }
 .btn { 
 justify-content: center;
